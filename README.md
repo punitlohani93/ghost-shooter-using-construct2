@@ -7,7 +7,7 @@ Ghost Shooter is a simple browser game where player can shoot ghosts/monsters by
 You can access the game at the following link:
 http://punitlohani.me/ghost-shooter-using-construct2/
 
-This game has been built by following a tutorial in Scirra.com at the following link
+This game has been built by following a tutorial at Scirra.com available at the following link
 https://www.scirra.com/tutorials/37/beginners-guide-to-construct-2/page-1
 
 I have added a few changes though, like creating little blast objects when the bullet hits the ghost and a large blast when the ghost has been killed. I have modified the scoring accordingly to award points for non-fatal hits as well.
