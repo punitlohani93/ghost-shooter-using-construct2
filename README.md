@@ -10,4 +10,4 @@ http://punitlohani.me/ghost-shooter-using-construct2/
 This game has been built by following a tutorial at Scirra.com available at the following link
 https://www.scirra.com/tutorials/37/beginners-guide-to-construct-2/page-1
 
-I have personally added a few changes though, like creating little blast objects when the bullet hits the ghost and a large blast when the ghost has been killed. An even larger blast object is spawned whenever the player dies. I have modified the scoring accordingly to award points for non-fatal hits as well. The game restarts within 3 seconds after the player has been killed.
+I have personally added a few changes though, like creating little blast objects when the bullet hits the ghost and a large blast when the ghost has been killed. An even larger blast object is spawned whenever the player dies. I have modified the scoring accordingly to award points for non-fatal hits as well. The game restarts within 3 seconds after the player has been killed. The ghosts now move with different speeds.
